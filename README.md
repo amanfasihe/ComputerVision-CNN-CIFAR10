@@ -115,5 +115,6 @@ Muhammad Aman Fasihe
 BS Artificial Intelligence
 
 The Islamia University of Bahawalpur
+
 Note: The trained model file (.pth) is included in the project submission package. The GitHub repository contains the source code, documentation, and result visualizations.
 
